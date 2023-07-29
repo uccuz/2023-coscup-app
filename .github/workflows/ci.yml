@@ -6,7 +6,7 @@ on:
       - 'main'
 
 env:
-  IMAGE: coscup-app
+  IMAGE: 2023-coscup-app
   MANIFEST_REPO: uccuz/2023-coscup-manifest
   MANIFEST_REPO_NAME: 2023-coscup-manifest
   VALUE_FILE_NAME: values.yaml
